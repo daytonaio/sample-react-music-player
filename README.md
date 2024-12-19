@@ -6,7 +6,7 @@
 2. **Create the Workspace**:
 
    ```bash
-   daytona create https://github.com/Anoobee/sample-react-music-player.git
+   daytona create https://github.com/daytonaio/sample-react-music-player
    ```
 
 3. **Start the Application**:
